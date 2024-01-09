@@ -6,7 +6,7 @@ In this assignment I explore different strategies used in building and training 
 
 I initially wanted to build a model to translate English to **Tamil** which happens to be my Native Language so that I could work with the translations easily. But due to less number of available sentence pairs (207) on the https://www.manythings.org/anki/ website for this language, I picked **Hebrew**.
 
-Though Hebrew has been a language of fascination for me for a while now, there are a few other important reasons I picked Hebrew for learning machine translation.
+Though Hebrew has been a language of fascination for me for a while now due to its Biblical association, there are a few other important reasons I picked Hebrew for learning machine translation.
 
 - Hebrew is **written from right to left**, it will be interesting to see if Bi-LSTM and Attention produces better results.
 
