@@ -32,4 +32,4 @@ They are from completely different regions and time-periods and have isolated pl
 
 
 
-Link to ![Notebook](notebooks/machinetranslation.ipynb)
+Link to [Notebook](notebooks/machinetranslation.ipynb)
