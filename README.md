@@ -21,6 +21,7 @@ They are from completely different regions and time-periods and have isolated pl
 
 
 ![LexicalDistance](<img/lexical_distance_eng_heb.png>)
+Image Source: https://alternativetransport.wordpress.com/2015/05/05/34/
 
 ### Strategies Used: 
 
